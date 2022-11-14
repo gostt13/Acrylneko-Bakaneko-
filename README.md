@@ -7,7 +7,7 @@ https://github.com/evyd13/plain60-flex-edition
 
 Compatible with all standard plates for 60% keyboard, I used this https://carolinamech.com/products/60-fr4-plate-mx
 
-Initial design created by https://github.com/kkatano/bakeneko-60 and Sleepsemek
+Initial design created by https://github.com/kkatano/bakeneko-60 and modified by Sleepsemek
 
 Typing and demonstration - https://www.youtube.com/watch?v=w_2k1FTgW3o
 
