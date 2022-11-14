@@ -17,8 +17,7 @@ Necessary materials
 - O-ring gasket from https://cannonkeys.com/products/bakeneko-o-rings
 
 - m2 standoffs:
-17mm - 8 pcs
-5mm - 3 pcs
+17mm - 8 pcs, 5mm - 3 pcs
 
 - m2 screws:
 5mm - 22 pcs
