@@ -11,7 +11,7 @@ Initial design created by https://github.com/kkatano/bakeneko-60 and Sleepsemek
 
 Typing and demonstration - https://www.youtube.com/watch?v=w_2k1FTgW3o
 
-Necessary materials
+Necessary materials:
 
 - Acrylic 3mm all layers(Or 2-3mm steel layer)
 - O-ring gasket from https://cannonkeys.com/products/bakeneko-o-rings
