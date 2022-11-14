@@ -24,7 +24,9 @@ Necessary materials:
 
 ![IMG_1200](https://user-images.githubusercontent.com/116327112/201731065-2b09b52f-a19b-4ab8-9c18-4cd6ca6f9d5a.jpg)
 
+- References:
 
+- https://github.com/kkatano/bakeneko-60
 
-
+- Sleepsemek
 
