@@ -9,6 +9,8 @@ Compatible with all standard plates for 60% keyboard, I used this https://caroli
 
 Initial design created by https://github.com/kkatano/bakeneko-60 and Sleepsemek
 
+Typing and demonstration - https://www.youtube.com/watch?v=w_2k1FTgW3o
+
 ![IMG_1200](https://user-images.githubusercontent.com/116327112/201731065-2b09b52f-a19b-4ab8-9c18-4cd6ca6f9d5a.jpg)
 
 
